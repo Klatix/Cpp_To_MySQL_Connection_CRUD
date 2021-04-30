@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1619810239 source:c:\users\klata\desktop\c++\cppmysql\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+
+1476084334 c:\users\klata\desktop\c++\cppmysql\\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1476084348 c:\users\klata\desktop\c++\cppmysql\\mysql_com.h
+
+1476084374 c:\users\klata\desktop\c++\cppmysql\\mysql_time.h
+
+1476084384 c:\users\klata\desktop\c++\cppmysql\\mysql_version.h
+	<custom_conf.h>
+
+1476084524 c:\users\klata\desktop\c++\cppmysql\\typelib.h
+
+1476084570 c:\users\klata\desktop\c++\cppmysql\\my_list.h
+
+1476084578 c:\users\klata\desktop\c++\cppmysql\\my_alloc.h
+
+1619811830 source:c:\users\klata\desktop\cppmysql\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+
+1619815692 source:c:\users\klata\documents\github\cpp_to_mysql_connection_crud\cppmysql\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+
